@@ -1,0 +1,8 @@
+name: DavisAI
+author: Latecoffe
+version: 1.0.0
+dependencies:
+  ucp2-legacy: ^2.15.1
+  aiSwapper: ^1.2.0
+  framework: ">=3.0.7"
+  frontend: ">=1.0.13"

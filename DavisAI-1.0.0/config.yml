@@ -1,0 +1,9 @@
+config-sparse:
+  modules:
+    ucp2-legacy:
+      config: {}
+    aiSwapper:
+      config: {}
+  plugins: {}
+meta:
+  version: 1.0.0
