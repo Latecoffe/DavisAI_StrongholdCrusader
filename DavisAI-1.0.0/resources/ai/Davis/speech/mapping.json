@@ -20,7 +20,7 @@
   "boast"        : "su_boast_01.wav",
   "help"         : "su_help_01.wav",
   "extra"        : "su_extra_01.wav",
-  "kick_player"  : "su_kick_player_01.wav",
+  "kick_player"  : "su_kickplayer_01.wav",
   "add_player"   : "su_add_player_01.wav",
   "siege"        : "su_siege_01.wav",
   "no_attack_1"  : "su_noattack_01.wav",
